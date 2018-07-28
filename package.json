@@ -1,0 +1,14 @@
+{
+  "name": "hello-jenkins",
+  "description": "hello jenkins test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^4.13.3",
+    "growl": "^1.10.5"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "supertest": "3.1.0"
+  }
+}
